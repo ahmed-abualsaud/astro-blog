@@ -1,4 +1,3 @@
-
 ---
 title: My Third Blog Post
 author: Astro Learner
